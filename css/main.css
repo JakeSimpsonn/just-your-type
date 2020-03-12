@@ -24,4 +24,5 @@ html {
   font-family: "PT Mono", monospace;
   color: #fff;
   position: relative;
+  margin: 0;
 }
