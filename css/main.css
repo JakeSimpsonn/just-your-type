@@ -7,21 +7,35 @@ html {
 .fear {
   font-family: "Open Sans", sans-serif;
   color: #fff;
-  transform: rotate(90deg);
   position: relative;
   display: inline-block;
-  top: 100px;
   background-color: #961a32;
+  transform: rotate(90deg);
 }
 
 .p1 {
   font-family: "Open Sans", sans-serif;
   color: #fff;
   position: relative;
+  padding: 0;
 }
 
 .p2 {
   font-family: "PT Mono", monospace;
+  color: #fff;
+  position: relative;
+  margin: 0;
+}
+
+.p3{
+  font-family: "PT Mono", monospace;
+  color: #fff;
+  position: relative;
+  margin: 0;
+}
+
+.p4{
+  font-family: "Open Sans", sans-serif;
   color: #fff;
   position: relative;
   margin: 0;
