@@ -10,8 +10,8 @@ html {
   position: relative;
   display: inline-block;
   background-color: #961a32;
-  padding-left: 2em;
-  line-height: 5rem;
+  padding-left: 1.75em;
+  padding-right: 1.75em;
 }
 
 .rotate {
@@ -27,6 +27,7 @@ html {
   font-family: "PT Mono", monospace;
   color: #fff;
   margin: 0;
+  position: relative;
 }
 
 .p3 {
